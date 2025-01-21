@@ -7,14 +7,14 @@ const projects = [
     description: 'Real-time hand gesture recognition system using computer vision and deep learning',
     tech: ['Python', 'OpenCV', 'TensorFlow', 'Deep Learning'],
     github: 'https://github.com/Shubham-Singh-08/HAND-GESTURE-DETECTION-AND-RECOGNITION-',
-    image: 'https://files.oaiusercontent.com/file-B8GNUZuSSSCcpf7zeJDyFi?se=2025-01-20T18%3A52%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D468e5eca-19cf-4ae9-8cb1-383bd25b3775.webp&sig=20UZjBQdZn6ZQbDg2nyBZNT/NdR0XA0NVHN/YRQTlkE%3D'
+    image: './hand.webp'
   },
   {
     title: 'Face Detection',
     description: 'Advanced face detection and recognition system with emotion analysis',
     tech: ['Python', 'PyTorch', 'OpenCV', 'Deep Learning'],
     github: 'https://github.com/Shubham-Singh-08/Facial-recognition-using-ML-',
-    image: 'https://files.oaiusercontent.com/file-8AxFEuvqxtZ5eRPMMbsAZg?se=2025-01-20T18%3A50%3A42Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da03c7107-1958-41c7-8460-1b9369512e62.webp&sig=gcgZO84B/A6vlJg8MEIAfSi3dg30a5O%2B1fYL7KYza0A%3D'
+    image: './face.webp'
   }
 ] as const;
 
